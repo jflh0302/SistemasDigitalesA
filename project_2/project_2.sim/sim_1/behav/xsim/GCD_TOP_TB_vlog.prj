@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../project_2.srcs/sources_1/new/FSMD.sv" \
+"../../../../../../../../Downloads/comparator.sv" \
+"../../../../../../../../Downloads/control_unit.sv" \
+"../../../../../../../../Downloads/multiplexer.sv" \
+"../../../../../../../../Downloads/register.sv" \
+"../../../../../../../../Downloads/subtractor.sv" \
+"../../../../project_2.srcs/sim_1/new/GCD_TOP_TB.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

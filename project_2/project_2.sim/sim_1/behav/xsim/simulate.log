@@ -1,0 +1,27 @@
+Time resolution is 1 ps
+--------------------------------
+PRUEBA CORRECTA
+X = 48
+Y = 18
+MCD = 6
+--------------------------------
+--------------------------------
+PRUEBA CORRECTA
+X = 21
+Y = 14
+MCD = 7
+--------------------------------
+--------------------------------
+PRUEBA CORRECTA
+X = 36
+Y = 24
+MCD = 12
+--------------------------------
+--------------------------------
+PRUEBA CORRECTA
+X = 15
+Y = 5
+MCD = 5
+--------------------------------
+TODAS LAS PRUEBAS FINALIZARON CORRECTAMENTE
+$finish called at time : 580 ns : File "C:/Users/jflh0/OneDrive/Desktop/9NO SEMESTRE/project_2/project_2.srcs/sim_1/new/GCD_TOP_TB.sv" Line 138

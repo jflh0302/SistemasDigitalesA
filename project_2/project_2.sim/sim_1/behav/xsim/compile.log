@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/OneDrive/Desktop/9NO SEMESTRE/project_2/project_2.srcs/sources_1/new/FSMD.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-311] analyzing module multiplexer
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-311] analyzing module subtractor
+INFO: [VRFC 10-311] analyzing module gcd_top
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/Downloads/comparator.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'comparator' [C:/Users/jflh0/Downloads/comparator.sv:3]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/Downloads/control_unit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_unit
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'control_unit' [C:/Users/jflh0/Downloads/control_unit.sv:5]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/Downloads/multiplexer.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module multiplexer
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'multiplexer' [C:/Users/jflh0/Downloads/multiplexer.sv:3]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/Downloads/register.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'register' [C:/Users/jflh0/Downloads/register.sv:3]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/Downloads/subtractor.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module subtractor
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'subtractor' [C:/Users/jflh0/Downloads/subtractor.sv:4]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/jflh0/OneDrive/Desktop/9NO SEMESTRE/project_2/project_2.srcs/sim_1/new/GCD_TOP_TB.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module GCD_TOP_TB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/jflh0/OneDrive/Desktop/9NO SEMESTRE/project_2/project_2.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
